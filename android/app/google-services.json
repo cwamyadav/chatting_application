@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "617402911467",
+    "project_id": "achat-645cd",
+    "storage_bucket": "achat-645cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617402911467:android:bf57b228baf8da83a80cae",
+        "android_client_info": {
+          "package_name": "com.example.a_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCezaoh0LpeKZ-tThv3Hb2sKC610x_JbqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
